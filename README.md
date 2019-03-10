@@ -6,6 +6,7 @@
 - react-router-dom
 - reactstrap for some basic layout
 - moment to format timestamps in the github response
+- axios for api calls
 
 ## Containers:
 
