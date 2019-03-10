@@ -1,5 +1,10 @@
 # CodeCapi Assessment
 
+## bonus items
+
+- added a couple of unit tests (see below)
+- made it a PWA by adding splash screen stuff, registering service worker, and running npm build, checked almost 100% in lighthouse, except for http -> https because of local hosting
+
 ## Packages used
 
 - enzyme for unit testing
